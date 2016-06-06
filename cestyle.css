@@ -1,0 +1,11 @@
+
+body {
+	background-color: #FFFFFF;
+   	background-image: url(snow.jpg), url(santa.jpg);
+   	background-repeat: no-repeat;
+   	background-size: 100%;
+} 
+
+h1, p, li {
+	font-family:Verdana;
+}
